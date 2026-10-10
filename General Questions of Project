@@ -1,0 +1,39 @@
+### 1. What is Planet FM?
+
+Planet FM is an interactive application that transforms location-based Earth information into meaningful visual and audio experiences, helping users explore and understand environmental changes.
+
+### 2. What is the main objective of Planet FM?
+
+The main objective is to make complex Earth data more accessible, engaging, and easier to understand through data visualisation and sonification.
+
+### 3. What is sonification, and how does Planet FM use it?
+
+Sonification is the process of translating data into sound. Planet FM uses it to represent changes in environmental data through variations in audio, allowing users to hear patterns that are also visible in graphs.
+
+### 4. Why did we choose sound to represent Earth data?
+
+Sound provides an alternative way to perceive changes and patterns in data. By combining visual and auditory information, Planet FM makes environmental data exploration more interactive and engaging.
+
+### 5. What types of environmental information can users explore?
+
+Planet FM covers various topics, including air quality, greenhouse gases, disasters, water resources, energy, wildfires, biodiversity, sea-level change, and agriculture.
+
+### 6. How does Planet FM provide location-based information?
+
+Users select a location, and the application presents relevant Earth information for that area, allowing them to explore environmental data in a geographical context.
+
+### 7. Where does Planet FM get its data from?
+
+Planet FM uses Earth-science and environmental datasets from reliable sources, such as NASA Earthdata, depending on the datasets integrated into the application. The specific sources can vary by topic.
+
+### 8. Who can benefit from Planet FM?
+
+Students, researchers, educators, environmental enthusiasts, and the general public can benefit from Planet FM by exploring environmental information in an interactive and accessible format.
+
+### 9. What makes Planet FM different from traditional data visualisation platforms?
+
+Traditional platforms primarily present information through graphs, maps, and numerical data. Planet FM combines visualisation with sonification, allowing users to both see and hear changes in environmental data.
+
+### 10. What is the expected impact of Planet FM?
+
+Planet FM aims to improve public engagement with Earth science, encourage environmental awareness, and provide an alternative way to explore and understand complex environmental information.
